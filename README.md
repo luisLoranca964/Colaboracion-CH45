@@ -13,4 +13,4 @@ Practica para colaborar con otras personas
 8.- Ricardo Aurelio
 9.- Miguel Valencia
 
-# Suerte a todos en la CH45
+# Suerte a todos en la Cohorte 45
